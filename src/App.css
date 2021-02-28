@@ -1,3 +1,7 @@
+.centeringTable {
+  margin: 0 auto;
+}
+
 .App {
   text-align: center;
 }
